@@ -136,7 +136,7 @@ for i in range(8):
 score = 0
 running = True
 game_over = True
-pygame.mixer.music.play()
+pygame.mixer.music.play(10)
 while running:
     if game_over:
         show_go_screen()

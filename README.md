@@ -10,6 +10,6 @@ A simple game.
 - `pip3 install pygame`
 - `git clone git@github.com:raajtilaksarma/psygame.git`
 
-### Usage
+### HOW TO PLAY
 - `cd psygame`
 - `python3 game.py`
