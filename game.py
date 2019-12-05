@@ -116,6 +116,8 @@ class Bullet(pygame.sprite.Sprite):
 
 background = pygame.image.load("resources/images/background1.png").convert()
 background_rect = background.get_rect()
+background_ingame = pygame.image.load("resources/images/background.jpg").convert()
+background_ingame_rect = background_ingame.get_rect()
 player_img = pygame.image.load("resources/images/om.png").convert()
 meteor_img = pygame.image.load("resources/images/leaf.png").convert()
 bullet_img = pygame.image.load("resources/images/bullet.png").convert()
@@ -173,7 +175,7 @@ while running:
         #running = False
 
     screen.fill(BLACK)
-    screen.blit(background, background_rect)
+    screen.blit(background_ingame, background_ingame_rect)
     all_sprites.draw(screen)
     draw_text(screen, str(score), 18, WIDTH / 2, 10)
     pygame.display.flip()

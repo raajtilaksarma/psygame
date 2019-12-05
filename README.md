@@ -2,7 +2,8 @@
 
 A simple game.
 
-![Game Home](/resources/images/start_screen.png)
+![](/resources/images/start_screen.png)
+![](/resources/images/ingame.png)
 
 ### Setup
 - `pip3 install pygame`
