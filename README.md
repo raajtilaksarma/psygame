@@ -2,7 +2,8 @@
 
 A simple game.
 
-![](/resources/images/start_screen.png)
+
+![](/resources/images/game_home.png)
 ![](/resources/images/ingame.png)
 
 ### Setup
