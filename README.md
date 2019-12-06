@@ -1,3 +1,6 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![shields.io](https://img.shields.io/badge/transcendental-consciousness-green)](https://img.shields.io/badge/transcendental-consciousness-green)
+
 ### Description
 
 A simple game.
